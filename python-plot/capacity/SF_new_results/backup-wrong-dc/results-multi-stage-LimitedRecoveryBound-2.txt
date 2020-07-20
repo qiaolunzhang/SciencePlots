@@ -1,0 +1,111 @@
+Column generation objective is 312
+Soving the stage 1
+Stage down is 0
+Stage up is 11
+Stage 1: 1876.4768403044118 working virtual networks in relaxation
+Nf = 23,8,11,17,
+Df = 2,9,17,
+Ef_u = (21,22),(9,11),(8,10),(18,24),(4,7),(5,8),(2,6),
+NfUp = 
+DfUp = 
+Ef_uUp = 
+Column generation objective is 535
+Soving the stage 2
+Stage down is 1
+Stage up is 11
+Stage 2: 1488.5333333333335 working virtual networks in relaxation
+Nf = 8,11,17,
+Df = 9,17,
+Ef_u = (9,11),(8,10),(18,24),(4,7),(5,8),(2,6),
+NfUp = 
+DfUp = 
+Ef_uUp = 
+Column generation objective is 535
+Soving the stage 3
+Stage down is 2
+Stage up is 11
+Stage 3: 1293.6 working virtual networks in relaxation
+Nf = 8,11,
+Df = 
+Ef_u = (9,11),(8,10),(18,24),(4,7),(5,8),
+NfUp = 
+DfUp = 
+Ef_uUp = 
+Column generation objective is 620
+Soving the stage 4
+Stage down is 3
+Stage up is 11
+Stage 4: 1094 working virtual networks in relaxation
+Nf = 8,
+Df = 
+Ef_u = (8,10),(18,24),(4,7),(5,8),
+NfUp = 
+DfUp = 
+Ef_uUp = 
+Column generation objective is 447
+Soving the stage 5
+Stage down is 4
+Stage up is 11
+Stage 5: 894 working virtual networks in relaxation
+Nf = 
+Df = 
+Ef_u = (8,10),(4,7),(5,8),
+NfUp = 
+DfUp = 
+Ef_uUp = 
+Column generation objective is 447
+Soving the stage 6
+Stage down is 5
+Stage up is 11
+Stage 6: 894 working virtual networks in relaxation
+Nf = 
+Df = 
+Ef_u = (8,10),(5,8),
+NfUp = 
+DfUp = 
+Ef_uUp = 
+Column generation objective is 447
+Soving the stage 7
+Stage down is 6
+Stage up is 11
+Stage 7: 894 working virtual networks in relaxation
+Nf = 
+Df = 
+Ef_u = (5,8),
+NfUp = 
+DfUp = 
+Ef_uUp = 
+Column generation objective is 447
+Soving the stage 8
+Stage down is 7
+Stage up is 11
+Stage 8: 894 working virtual networks in relaxation
+Nf = 
+Df = 
+Ef_u = 
+NfUp = 
+DfUp = 
+Ef_uUp = 
+Column generation objective is 447
+Soving the stage 9
+Stage down is 8
+Stage up is 11
+Stage 9: 894 working virtual networks in relaxation
+Nf = 
+Df = 
+Ef_u = 
+NfUp = 
+DfUp = 
+Ef_uUp = 
+Column generation objective is 447
+Soving the stage 10
+Stage down is 9
+Stage up is 11
+Stage 10: 894 working virtual networks in relaxation
+Nf = 
+Df = 
+Ef_u = 
+NfUp = 
+DfUp = 
+Ef_uUp = 
+Column generation objective is 447
