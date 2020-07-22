@@ -1,0 +1,390 @@
+Soving the stage 1
+Stage down is 0
+Stage up is 11
+Stage 1: 418.75000000000017 working virtual networks in relaxation
+Nf = 15,5,4,23,8,11,17,
+Df = 2,9,17,
+Ef_u = (13,14),(21,22),(23,24),(9,11),(2,3),(11,12),(17,18),(8,10),(11,19),(18,24),(4,7),(5,8),
+NfUp = 
+DfUp = 
+Ef_uUp = 
+Column generation objective is 61
+Working Slices is 0
+alpha is 3
+Soving the stage 2
+Stage down is 1
+Stage up is 11
+Stage 2: 386.1117318435753 working virtual networks in relaxation
+Nf = 5,4,23,8,11,17,
+Df = 
+Ef_u = (13,14),(21,22),(23,24),(9,11),(2,3),(17,18),(8,10),(11,19),(18,24),(4,7),(5,8),
+NfUp = 
+DfUp = 
+Ef_uUp = 
+Column generation objective is 89
+Working Slices is 1
+alpha is 2
+Soving the stage 3
+Stage down is 2
+Stage up is 11
+Stage 3: 462.7058823529418 working virtual networks in relaxation
+Nf = 5,4,23,8,11,
+Df = 
+Ef_u = (13,14),(21,22),(23,24),(2,3),(17,18),(8,10),(11,19),(18,24),(4,7),(5,8),
+NfUp = 
+DfUp = 
+Ef_uUp = 
+Column generation objective is 102
+Working Slices is 1
+alpha is 2
+Soving the stage 4
+Stage down is 3
+Stage up is 11
+Stage 4: 380.3333333333335 working virtual networks in relaxation
+Nf = 5,4,23,8,
+Df = 
+Ef_u = (13,14),(21,22),(23,24),(17,18),(8,10),(11,19),(18,24),(4,7),(5,8),
+NfUp = 
+DfUp = 
+Ef_uUp = 
+Column generation objective is 180
+Working Slices is 4
+alpha is 1
+Soving the stage 5
+Stage down is 4
+Stage up is 11
+Stage 5: 521.583333333333 working virtual networks in relaxation
+Nf = 5,4,23,
+Df = 
+Ef_u = (13,14),(21,22),(23,24),(8,10),(11,19),(18,24),(4,7),(5,8),
+NfUp = 
+DfUp = 
+Ef_uUp = 
+Column generation objective is 231
+Working Slices is 7
+alpha is 1
+Soving the stage 6
+Stage down is 5
+Stage up is 11
+Stage 6: 601.625 working virtual networks in relaxation
+Nf = 4,23,
+Df = 
+Ef_u = (13,14),(21,22),(23,24),(11,19),(18,24),(4,7),(5,8),
+NfUp = 
+DfUp = 
+Ef_uUp = 
+Column generation objective is 289
+Working Slices is 11
+alpha is 1
+Soving the stage 7
+Stage down is 6
+Stage up is 11
+Stage 7: 685.5 working virtual networks in relaxation
+Nf = 23,
+Df = 
+Ef_u = (13,14),(21,22),(23,24),(11,19),(18,24),(5,8),
+NfUp = 
+DfUp = 
+Ef_uUp = 
+Column generation objective is 331
+Working Slices is 14
+alpha is 1
+Soving the stage 8
+Stage down is 7
+Stage up is 11
+Stage 8: 747.5 working virtual networks in relaxation
+Nf = 
+Df = 
+Ef_u = (21,22),(23,24),(11,19),(18,24),(5,8),
+NfUp = 
+DfUp = 
+Ef_uUp = 
+Column generation objective is 399
+Working Slices is 18
+alpha is 1
+Soving the stage 9
+Stage down is 8
+Stage up is 11
+Stage 9: 830 working virtual networks in relaxation
+Nf = 
+Df = 
+Ef_u = (21,22),(23,24),(11,19),(18,24),
+NfUp = 
+DfUp = 
+Ef_uUp = 
+Column generation objective is 412
+Working Slices is 18
+alpha is 1
+Soving the stage 10
+Stage down is 9
+Stage up is 11
+Stage 10: 853 working virtual networks in relaxation
+Nf = 
+Df = 
+Ef_u = (21,22),(23,24),(18,24),
+NfUp = 
+DfUp = 
+Ef_uUp = 
+Column generation objective is 441
+Working Slices is 20
+alpha is 1
+Soving the stage 1
+Stage down is 0
+Stage up is 11
+Stage 1: 331.29545454545485 working virtual networks in relaxation
+Nf = 15,5,4,23,8,11,17,
+Df = 2,9,17,
+Ef_u = (13,14),(21,22),(23,24),(9,11),(2,3),(17,18),(8,10),(11,19),(18,24),(4,7),(5,8),(2,6),
+NfUp = 
+DfUp = 
+Ef_uUp = 
+Column generation objective is 42
+Working Slices is 0
+alpha is 3
+Soving the stage 2
+Stage down is 1
+Stage up is 11
+Stage 2: 298.5526315789476 working virtual networks in relaxation
+Nf = 5,4,23,8,11,17,
+Df = 
+Ef_u = (13,14),(21,22),(23,24),(9,11),(2,3),(17,18),(8,10),(11,19),(18,24),(4,7),(5,8),
+NfUp = 
+DfUp = 
+Ef_uUp = 
+Column generation objective is 57
+Working Slices is 0
+alpha is 2
+Soving the stage 3
+Stage down is 2
+Stage up is 11
+Stage 3: 361.80621301775165 working virtual networks in relaxation
+Nf = 5,4,23,8,11,
+Df = 
+Ef_u = (13,14),(21,22),(23,24),(9,11),(17,18),(8,10),(11,19),(18,24),(4,7),(5,8),
+NfUp = 
+DfUp = 
+Ef_uUp = 
+Column generation objective is 88
+Working Slices is 1
+alpha is 2
+Soving the stage 4
+Stage down is 3
+Stage up is 11
+Stage 4: 316.5730769230769 working virtual networks in relaxation
+Nf = 5,4,23,8,
+Df = 
+Ef_u = (13,14),(21,22),(23,24),(17,18),(8,10),(11,19),(18,24),(4,7),(5,8),
+NfUp = 
+DfUp = 
+Ef_uUp = 
+Column generation objective is 159
+Working Slices is 5
+alpha is 1
+Soving the stage 5
+Stage down is 4
+Stage up is 11
+Stage 5: 449.7386363636365 working virtual networks in relaxation
+Nf = 5,4,8,
+Df = 
+Ef_u = (13,14),(21,22),(23,24),(8,10),(11,19),(18,24),(4,7),(5,8),
+NfUp = 
+DfUp = 
+Ef_uUp = 
+Column generation objective is 207
+Working Slices is 8
+alpha is 1
+Soving the stage 6
+Stage down is 5
+Stage up is 11
+Stage 6: 523.8333333333336 working virtual networks in relaxation
+Nf = 4,8,
+Df = 
+Ef_u = (13,14),(23,24),(8,10),(11,19),(18,24),(4,7),(5,8),
+NfUp = 
+DfUp = 
+Ef_uUp = 
+Column generation objective is 221
+Working Slices is 8
+alpha is 1
+Soving the stage 7
+Stage down is 6
+Stage up is 11
+Stage 7: 567.0625 working virtual networks in relaxation
+Nf = 4,
+Df = 
+Ef_u = (13,14),(23,24),(11,19),(18,24),(4,7),(5,8),
+NfUp = 
+DfUp = 
+Ef_uUp = 
+Column generation objective is 287
+Working Slices is 12
+alpha is 1
+Soving the stage 8
+Stage down is 7
+Stage up is 11
+Stage 8: 669.0833333333333 working virtual networks in relaxation
+Nf = 
+Df = 
+Ef_u = (13,14),(23,24),(18,24),(4,7),(5,8),
+NfUp = 
+DfUp = 
+Ef_uUp = 
+Column generation objective is 363
+Working Slices is 17
+alpha is 1
+Soving the stage 9
+Stage down is 8
+Stage up is 11
+Stage 9: 766.5 working virtual networks in relaxation
+Nf = 
+Df = 
+Ef_u = (13,14),(23,24),(18,24),(5,8),
+NfUp = 
+DfUp = 
+Ef_uUp = 
+Column generation objective is 382
+Working Slices is 18
+alpha is 1
+Soving the stage 10
+Stage down is 9
+Stage up is 11
+Stage 10: 796.8333333333335 working virtual networks in relaxation
+Nf = 
+Df = 
+Ef_u = (13,14),(23,24),(18,24),
+NfUp = 
+DfUp = 
+Ef_uUp = 
+Column generation objective is 397
+Working Slices is 18
+alpha is 1
+Soving the stage 1
+Stage down is 0
+Stage up is 11
+Stage 1: 354.27192982456165 working virtual networks in relaxation
+Nf = 15,5,4,23,8,11,17,
+Df = 2,9,17,
+Ef_u = (13,14),(21,22),(23,24),(9,11),(2,3),(17,18),(8,10),(11,19),(18,24),(4,7),(5,8),(2,6),
+NfUp = 
+DfUp = 
+Ef_uUp = 
+Column generation objective is 49
+Working Slices is 0
+alpha is 3
+Soving the stage 2
+Stage down is 1
+Stage up is 11
+Stage 2: 320.14285714285694 working virtual networks in relaxation
+Nf = 5,4,23,8,11,17,
+Df = 
+Ef_u = (13,14),(23,24),(9,11),(2,3),(17,18),(8,10),(11,19),(18,24),(4,7),(5,8),(2,6),
+NfUp = 
+DfUp = 
+Ef_uUp = 
+Column generation objective is 63
+Working Slices is 0
+alpha is 2
+Soving the stage 3
+Stage down is 2
+Stage up is 11
+Stage 3: 372.355555555556 working virtual networks in relaxation
+Nf = 5,4,23,8,11,
+Df = 
+Ef_u = (13,14),(23,24),(9,11),(17,18),(8,10),(11,19),(18,24),(4,7),(5,8),(2,6),
+NfUp = 
+DfUp = 
+Ef_uUp = 
+Column generation objective is 120
+Working Slices is 2
+alpha is 2
+Soving the stage 4
+Stage down is 3
+Stage up is 11
+Stage 4: 361.1764705882358 working virtual networks in relaxation
+Nf = 5,4,23,8,
+Df = 
+Ef_u = (13,14),(23,24),(17,18),(8,10),(11,19),(18,24),(4,7),(5,8),(2,6),
+NfUp = 
+DfUp = 
+Ef_uUp = 
+Column generation objective is 181
+Working Slices is 6
+alpha is 1
+Soving the stage 5
+Stage down is 4
+Stage up is 11
+Stage 5: 464.05882352941165 working virtual networks in relaxation
+Nf = 5,4,23,
+Df = 
+Ef_u = (13,14),(23,24),(17,18),(8,10),(11,19),(18,24),(4,7),(5,8),
+NfUp = 
+DfUp = 
+Ef_uUp = 
+Column generation objective is 199
+Working Slices is 6
+alpha is 1
+Soving the stage 6
+Stage down is 5
+Stage up is 11
+Stage 6: 524.4166666666667 working virtual networks in relaxation
+Nf = 5,4,
+Df = 
+Ef_u = (13,14),(23,24),(8,10),(11,19),(18,24),(4,7),(5,8),
+NfUp = 
+DfUp = 
+Ef_uUp = 
+Column generation objective is 233
+Working Slices is 8
+alpha is 1
+Soving the stage 7
+Stage down is 6
+Stage up is 11
+Stage 7: 585.75 working virtual networks in relaxation
+Nf = 4,
+Df = 
+Ef_u = (13,14),(23,24),(11,19),(18,24),(4,7),(5,8),
+NfUp = 
+DfUp = 
+Ef_uUp = 
+Column generation objective is 260
+Working Slices is 9
+alpha is 1
+Soving the stage 8
+Stage down is 7
+Stage up is 11
+Stage 8: 637.75 working virtual networks in relaxation
+Nf = 
+Df = 
+Ef_u = (13,14),(23,24),(18,24),(4,7),(5,8),
+NfUp = 
+DfUp = 
+Ef_uUp = 
+Column generation objective is 329
+Working Slices is 14
+alpha is 1
+Soving the stage 9
+Stage down is 8
+Stage up is 11
+Stage 9: 729.9166666666666 working virtual networks in relaxation
+Nf = 
+Df = 
+Ef_u = (23,24),(18,24),(4,7),(5,8),
+NfUp = 
+DfUp = 
+Ef_uUp = 
+Column generation objective is 358
+Working Slices is 15
+alpha is 1
+Soving the stage 10
+Stage down is 9
+Stage up is 11
+Stage 10: 775.8333333333333 working virtual networks in relaxation
+Nf = 
+Df = 
+Ef_u = (18,24),(4,7),(5,8),
+NfUp = 
+DfUp = 
+Ef_uUp = 
+Column generation objective is 394
+Working Slices is 18
+alpha is 1
